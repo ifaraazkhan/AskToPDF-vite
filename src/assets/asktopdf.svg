@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="52425347-50c1-4d15-bc73-232f071c2a40"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="b7f56b2c-d2bc-4a89-b0cf-506687d76d8f"  >
+</g>
+<g transform="matrix(2.11 0 0 2.11 540 540)"  >
+<path style="stroke: rgb(228,218,218); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-248, -256)" d="M 64 464 L 112 464 L 112 512 L 64 512 C 28.700000000000003 512 0 483.3 0 448 L 0 64 C 0 28.7 28.7 0 64 0 L 229.5 0 C 246.5 0 262.8 6.7 274.8 18.7 L 365.3 109.2 C 377.3 121.2 384 137.5 384 154.5 L 384 304 L 336 304 L 336 160 L 256 160 C 238.3 160 224 145.7 224 128 L 224 48 L 64 48 C 55.2 48 48 55.2 48 64 L 48 448 C 48 456.8 55.2 464 64 464 z M 176 352 L 208 352 C 238.9 352 264 377.1 264 408 C 264 438.9 238.9 464 208 464 L 192 464 L 192 496 C 192 504.8 184.8 512 176 512 C 167.2 512 160 504.8 160 496 L 160 448 L 160 368 C 160 359.2 167.2 352 176 352 z M 208 432 C 221.3 432 232 421.3 232 408 C 232 394.7 221.3 384 208 384 L 192 384 L 192 432 L 208 432 z M 304 352 L 336 352 C 362.5 352 384 373.5 384 400 L 384 464 C 384 490.5 362.5 512 336 512 L 304 512 C 295.2 512 288 504.8 288 496 L 288 368 C 288 359.2 295.2 352 304 352 z M 336 480 C 344.8 480 352 472.8 352 464 L 352 400 C 352 391.2 344.8 384 336 384 L 320 384 L 320 480 L 336 480 z M 416 368 C 416 359.2 423.2 352 432 352 L 480 352 C 488.8 352 496 359.2 496 368 C 496 376.8 488.8 384 480 384 L 448 384 L 448 416 L 480 416 C 488.8 416 496 423.2 496 432 C 496 440.8 488.8 448 480 448 L 448 448 L 448 496 C 448 504.8 440.8 512 432 512 C 423.2 512 416 504.8 416 496 L 416 432 L 416 368 z" stroke-linecap="round" />
+</g>
+</svg>
