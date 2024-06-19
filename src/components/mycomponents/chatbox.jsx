@@ -8,8 +8,9 @@ import MessageList from "./messageList";
 
 
 const ChatComponent = ({ chatId,file_key }) => {
+    const API_url = import.meta.env.VITE_API_URL;
     const { input, handleInputChange, handleSubmit,messages } = useChat({
-        api:"http://localhost:9000/public/ask-pdf",
+        api:`${API_url}/public/ask-pdf`,
         body:{
             chatId:chatId,
             file_key:file_key,

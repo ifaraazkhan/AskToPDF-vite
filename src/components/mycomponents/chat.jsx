@@ -5,6 +5,7 @@ import PDFViewer from "./pdfviewer";
 import ChatComponent from "./chatbox";
 
 function Chat() {
+    const API_url = import.meta.env.VITE_API_URL;
     const { chatid } = useParams();
     const [chats, setChats] = useState([]);
 
@@ -13,7 +14,7 @@ function Chat() {
     useEffect(() => {
         const fetchData = async () => {
           try {
-            const response = await fetch(`http://localhost:9000/public/allchats/${chatid}`);
+            const response = await fetch(`${API_url}/public/allchats/${chatid}`);
     
             if (!response.ok) {
               throw new Error('Failed to fetch data');
