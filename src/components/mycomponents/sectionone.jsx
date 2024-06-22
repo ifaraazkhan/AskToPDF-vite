@@ -9,8 +9,8 @@ const SectionOne = () => {
             <div class="relative pt-24 lg:pt-28">
                 <div class="mx-auto px-6 max-w-7xl md:px-12">
                     <div class="text-center sm:mx-auto sm:w-10/12 lg:mr-auto lg:mt-0 lg:w-4/5">
-                    <a href="/" class="border w-fit mx-auto flex justify-between items-center transition duration-200 rounded-[--annonce-border-radius] border-[--ui-light-border-color] hover:border-[--ui-light-border-hover-color] dark:border-[--ui-dark-border-color] dark:hover:border-[--ui-dark-border-hover-color] p-1 group gap-2">
-                            <span class="block text-sm px-2 py-0.5 rounded-[calc(var(--annonce-border-radius)-0.375rem)] text-white bg-primary-600">SQL-AI</span>
+                    <a href="https://generatesql.com/" target="_blank" class="border w-fit mx-auto flex justify-between items-center transition duration-200 rounded-[--annonce-border-radius] border-[--ui-light-border-color] hover:border-[--ui-light-border-hover-color] dark:border-[--ui-dark-border-color] dark:hover:border-[--ui-dark-border-hover-color] p-1 group gap-2">
+                            <span class="block text-sm px-2 py-0.5 rounded-[calc(var(--annonce-border-radius)-0.375rem)] text-white bg-primary-600">generateSQL.com</span>
                             <span class="text-sm font-medium text-gray-700 dark:text-gray-300 flex gap-6">
                                 New AI Tool check here
                                 <div class="flex items-center -space-x-3 group-hover:-translate-x-1 transition-transform duration-300">
